@@ -16,8 +16,11 @@ This is a Bash script to automate the initial setup and customization of **Parro
 1. Clone the repo or download the script:
    
    git clone https://github.com/YumiKioko/ParrotOS-Setup-Script.git
+   
    cd ParrotOS-Setup-Script
+   
    chmod +x Final_Script_Parrot_OS_v2.sh
+   
    ./Final_Script_Parrot_OS_v2.sh
 
 ⚠️ Run as root or use sudo where required.
